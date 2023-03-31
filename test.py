@@ -1,7 +1,7 @@
-import sys
+import sys #unused import
 import os
 
-path = "C://Users/AndyJ/Code/testing project/CoverageData"
+path = os.path.join(os.getcwd(), "CoverageData") #platform indedepent file path
 
 os.chdir(path)
 
@@ -55,7 +55,7 @@ def read_text_file(file_path, method_list):
 
 
 for file in os.listdir():
-    file_path = f"{path}\{file}"
+    file_path=os.path.join(path, file) #platform independent file path
     read_text_file(file_path, method_list)
     # print("\n")
     
