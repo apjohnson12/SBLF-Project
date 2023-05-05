@@ -1,4 +1,4 @@
-org.jfree.chart.entity.PieSectionEntityTest.testCloning true
+org.jfree.chart.entity.PieSectionEntityTest.testCloning false
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/chart/entity/ChartEntity:<init>:(Ljava/awt/Shape;Ljava/lang/String;Ljava/lang/String;)V
 org/jfree/chart/entity/ChartEntity:equals:(Ljava/lang/Object;)Z

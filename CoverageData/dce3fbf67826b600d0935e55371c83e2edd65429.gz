@@ -1,4 +1,4 @@
-org.jfree.data.time.FixedMillisecondTest.testSerialization true
+org.jfree.data.time.FixedMillisecondTest.testSerialization false
 org/jfree/data/time/RegularTimePeriod:<init>:()V
 org/jfree/data/time/FixedMillisecond:<init>:()V
 org/jfree/data/time/FixedMillisecond:<init>:(J)V

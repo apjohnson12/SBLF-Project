@@ -1,4 +1,4 @@
-org.jfree.data.DomainOrderTest.testSerialization true
+org.jfree.data.DomainOrderTest.testSerialization false
 org/jfree/data/DomainOrder:<clinit>:()V
 org/jfree/data/DomainOrder:<init>:(Ljava/lang/String;)V
 org/jfree/data/DomainOrder:toString:()Ljava/lang/String;

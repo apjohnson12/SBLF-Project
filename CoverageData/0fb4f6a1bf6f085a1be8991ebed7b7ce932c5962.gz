@@ -1,4 +1,4 @@
-org.jfree.chart.block.RectangleConstraintTest.testCalculateConstrainedSize true
+org.jfree.chart.block.RectangleConstraintTest.testCalculateConstrainedSize false
 org/jfree/data/Range:<init>:(DD)V
 org/jfree/data/Range:contains:(D)Z
 org/jfree/data/Range:constrain:(D)D

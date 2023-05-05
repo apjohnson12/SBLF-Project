@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.IntervalBarRendererTest.testHashcode true
+org.jfree.chart.renderer.category.IntervalBarRendererTest.testHashcode false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:hashCode:()I

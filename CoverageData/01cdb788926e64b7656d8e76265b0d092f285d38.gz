@@ -1,4 +1,4 @@
-org.jfree.data.xy.XYSeriesTest.testSerialization true
+org.jfree.data.xy.XYSeriesTest.testSerialization false
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V
 org/jfree/data/general/Series:getKey:()Ljava/lang/Comparable;

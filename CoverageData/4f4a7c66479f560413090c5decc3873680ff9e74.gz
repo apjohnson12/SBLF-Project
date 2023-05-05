@@ -1,4 +1,4 @@
-org.jfree.chart.annotations.TextAnnotationTest.testHashCode true
+org.jfree.chart.annotations.TextAnnotationTest.testHashCode false
 org/jfree/chart/annotations/TextAnnotation:<init>:(Ljava/lang/String;)V
 org/jfree/chart/annotations/TextAnnotation:getText:()Ljava/lang/String;
 org/jfree/chart/annotations/TextAnnotation:getFont:()Ljava/awt/Font;

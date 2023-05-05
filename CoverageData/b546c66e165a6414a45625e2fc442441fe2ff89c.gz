@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.LayeredBarRendererTest.testSerialization true
+org.jfree.chart.renderer.category.LayeredBarRendererTest.testSerialization false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V

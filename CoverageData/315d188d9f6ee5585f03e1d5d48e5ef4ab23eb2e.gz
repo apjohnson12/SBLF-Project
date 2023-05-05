@@ -1,4 +1,4 @@
-org.jfree.data.general.DatasetUtilitiesTest.testFindStackedRangeBoundsForTableXYDataset2 true
+org.jfree.data.general.DatasetUtilitiesTest.testFindStackedRangeBoundsForTableXYDataset2 false
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:addChangeListener:(Lorg/jfree/data/general/DatasetChangeListener;)V

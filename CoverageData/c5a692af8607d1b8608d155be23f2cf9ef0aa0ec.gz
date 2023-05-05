@@ -1,4 +1,4 @@
-org.jfree.chart.plot.CompassPlotTest.testEquals true
+org.jfree.chart.plot.CompassPlotTest.testEquals false
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:addChangeListener:(Lorg/jfree/data/general/DatasetChangeListener;)V
 org/jfree/chart/plot/Plot:<init>:()V

@@ -1,4 +1,4 @@
-org.jfree.chart.plot.dial.DialPlotTest.testCapListener true
+org.jfree.chart.plot.dial.DialPlotTest.testCapListener false
 org/jfree/chart/plot/Plot:<init>:()V
 org/jfree/chart/plot/Plot:addChangeListener:(Lorg/jfree/chart/event/PlotChangeListener;)V
 org/jfree/chart/plot/Plot:notifyListeners:(Lorg/jfree/chart/event/PlotChangeEvent;)V

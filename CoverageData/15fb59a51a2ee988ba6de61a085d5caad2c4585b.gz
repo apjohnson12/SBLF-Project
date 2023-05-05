@@ -1,4 +1,4 @@
-org.jfree.data.time.MillisecondTest.testEquals true
+org.jfree.data.time.MillisecondTest.testEquals false
 org/jfree/data/time/RegularTimePeriod:<init>:()V
 org/jfree/data/time/Day:<init>:(III)V
 org/jfree/data/time/Day:getSerialDate:()Lorg/jfree/date/SerialDate;

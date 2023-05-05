@@ -1,4 +1,4 @@
-org.jfree.data.xy.XYSeriesTest.testRemove true
+org.jfree.data.xy.XYSeriesTest.testRemove false
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V
 org/jfree/data/general/Series:fireSeriesChanged:()V

@@ -1,4 +1,4 @@
-org.jfree.chart.urls.CustomPieURLGeneratorTest.testCloning true
+org.jfree.chart.urls.CustomPieURLGeneratorTest.testCloning false
 org/jfree/chart/urls/CustomPieURLGenerator:<init>:()V
 org/jfree/chart/urls/CustomPieURLGenerator:getListCount:()I
 org/jfree/chart/urls/CustomPieURLGenerator:getURLCount:(I)I

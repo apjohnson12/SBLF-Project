@@ -1,4 +1,4 @@
-org.jfree.data.xy.DefaultXYDatasetTest.testPublicCloneable true
+org.jfree.data.xy.DefaultXYDatasetTest.testPublicCloneable false
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/xy/AbstractXYDataset:<init>:()V

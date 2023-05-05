@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.AbstractRendererTest.testEquals2 true
+org.jfree.chart.renderer.AbstractRendererTest.testEquals2 false
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:setTreatLegendShapeAsLine:(Z)V
 org/jfree/chart/renderer/AbstractRenderer:fireChangeEvent:()V

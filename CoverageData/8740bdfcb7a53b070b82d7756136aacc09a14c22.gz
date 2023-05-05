@@ -1,4 +1,4 @@
-org.jfree.chart.ChartRenderingInfoTest.testCloning true
+org.jfree.chart.ChartRenderingInfoTest.testCloning false
 org/jfree/chart/entity/ChartEntity:<init>:(Ljava/awt/Shape;)V
 org/jfree/chart/entity/ChartEntity:<init>:(Ljava/awt/Shape;Ljava/lang/String;)V
 org/jfree/chart/entity/ChartEntity:<init>:(Ljava/awt/Shape;Ljava/lang/String;Ljava/lang/String;)V

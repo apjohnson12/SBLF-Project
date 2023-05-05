@@ -1,4 +1,4 @@
-org.jfree.chart.plot.dial.DialBackgroundTest.testEquals true
+org.jfree.chart.plot.dial.DialBackgroundTest.testEquals false
 org/jfree/chart/event/ChartChangeEvent:<init>:(Ljava/lang/Object;)V
 org/jfree/chart/event/ChartChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/chart/JFreeChart;Lorg/jfree/chart/event/ChartChangeEventType;)V
 org/jfree/chart/plot/dial/AbstractDialLayer:<init>:()V

@@ -1,4 +1,4 @@
-org.jfree.chart.axis.ExtendedCategoryAxisTest.testCloning true
+org.jfree.chart.axis.ExtendedCategoryAxisTest.testCloning false
 org/jfree/chart/axis/Axis:<init>:(Ljava/lang/String;)V
 org/jfree/chart/axis/Axis:clone:()Ljava/lang/Object;
 org/jfree/chart/axis/Axis:equals:(Ljava/lang/Object;)Z

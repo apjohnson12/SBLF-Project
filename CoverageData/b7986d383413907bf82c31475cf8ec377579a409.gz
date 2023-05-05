@@ -1,4 +1,4 @@
-org.jfree.data.time.SecondTest.testGetFirstMillisecondWithTimeZone true
+org.jfree.data.time.SecondTest.testGetFirstMillisecondWithTimeZone false
 org/jfree/data/time/RegularTimePeriod:<init>:()V
 org/jfree/data/time/RegularTimePeriod:getFirstMillisecond:(Ljava/util/TimeZone;)J
 org/jfree/data/time/Day:<init>:(III)V

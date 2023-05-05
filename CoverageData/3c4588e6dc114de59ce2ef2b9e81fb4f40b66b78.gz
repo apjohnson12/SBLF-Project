@@ -1,4 +1,4 @@
-org.jfree.chart.plot.CrosshairTest.testCloning true
+org.jfree.chart.plot.CrosshairTest.testCloning false
 org/jfree/chart/util/ParamChecks:nullNotPermitted:(Ljava/lang/Object;Ljava/lang/String;)V
 org/jfree/chart/plot/Crosshair:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;)V
 org/jfree/chart/plot/Crosshair:equals:(Ljava/lang/Object;)Z

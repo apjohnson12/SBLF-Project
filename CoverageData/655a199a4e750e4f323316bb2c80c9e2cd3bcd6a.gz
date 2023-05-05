@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.xy.XYBlockRendererTest.testBug1766646B true
+org.jfree.chart.renderer.xy.XYBlockRendererTest.testBug1766646B false
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/xy/AbstractXYDataset:<init>:()V

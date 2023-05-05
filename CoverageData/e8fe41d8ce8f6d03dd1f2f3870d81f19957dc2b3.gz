@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.WaterfallBarRendererTest.testFindRangeBounds true
+org.jfree.chart.renderer.category.WaterfallBarRendererTest.testFindRangeBounds false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:setBaseLegendShape:(Ljava/awt/Shape;)V

@@ -1,4 +1,4 @@
-org.jfree.chart.axis.SegmentedTimelineTest.testMs2Segment true
+org.jfree.chart.axis.SegmentedTimelineTest.testMs2Segment false
 org/jfree/chart/axis/SegmentedTimeline:<init>:(JII)V
 org/jfree/chart/axis/SegmentedTimeline:firstMondayAfter1900:()J
 org/jfree/chart/axis/SegmentedTimeline:newMondayThroughFridayTimeline:()Lorg/jfree/chart/axis/SegmentedTimeline;

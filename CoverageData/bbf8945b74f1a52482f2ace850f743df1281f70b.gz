@@ -1,4 +1,4 @@
-org.jfree.data.xy.XYIntervalSeriesTest.testIndexOf2 true
+org.jfree.data.xy.XYIntervalSeriesTest.testIndexOf2 false
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V
 org/jfree/data/general/Series:fireSeriesChanged:()V

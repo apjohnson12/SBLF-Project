@@ -1,4 +1,4 @@
-org.jfree.chart.plot.PiePlot3DTest.testSerialization true
+org.jfree.chart.plot.PiePlot3DTest.testSerialization false
 org/jfree/chart/plot/Plot:<init>:()V
 org/jfree/chart/plot/Plot:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/plot/Plot:writeObject:(Ljava/io/ObjectOutputStream;)V

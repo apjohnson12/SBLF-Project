@@ -1,4 +1,4 @@
-org.jfree.data.time.TimeSeriesTest.testBug1075255 true
+org.jfree.data.time.TimeSeriesTest.testBug1075255 false
 org/jfree/data/time/RegularTimePeriod:<init>:()V
 org/jfree/data/time/Year:<init>:(I)V
 org/jfree/data/time/Year:getYear:()I

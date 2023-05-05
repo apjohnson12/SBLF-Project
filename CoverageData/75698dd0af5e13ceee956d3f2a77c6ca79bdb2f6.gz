@@ -1,4 +1,4 @@
-org.jfree.data.statistics.RegressionTest.testPowerRegression1b true
+org.jfree.data.statistics.RegressionTest.testPowerRegression1b false
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V
 org/jfree/data/general/Series:addChangeListener:(Lorg/jfree/data/general/SeriesChangeListener;)V

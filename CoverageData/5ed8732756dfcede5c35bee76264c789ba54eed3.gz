@@ -1,4 +1,4 @@
-org.jfree.chart.axis.CategoryAxisTest.testCloning2 true
+org.jfree.chart.axis.CategoryAxisTest.testCloning2 false
 org/jfree/chart/axis/Axis:<init>:(Ljava/lang/String;)V
 org/jfree/chart/axis/Axis:notifyListeners:(Lorg/jfree/chart/event/AxisChangeEvent;)V
 org/jfree/chart/axis/Axis:fireChangeEvent:()V

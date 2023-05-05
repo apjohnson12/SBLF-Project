@@ -1,4 +1,4 @@
-org.jfree.chart.labels.StandardXYToolTipGeneratorTest.testHashCode true
+org.jfree.chart.labels.StandardXYToolTipGeneratorTest.testHashCode false
 org/jfree/chart/util/ParamChecks:nullNotPermitted:(Ljava/lang/Object;Ljava/lang/String;)V
 org/jfree/chart/HashUtilities:hashCode:(ILjava/lang/String;)I
 org/jfree/chart/HashUtilities:hashCode:(ILjava/lang/Object;)I

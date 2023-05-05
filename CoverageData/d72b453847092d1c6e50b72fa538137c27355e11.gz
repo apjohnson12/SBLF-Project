@@ -1,2 +1,2 @@
-org.jfree.data.xy.VectorTest.testCloning true
+org.jfree.data.xy.VectorTest.testCloning false
 org/jfree/data/xy/Vector:<init>:(DD)V

@@ -1,4 +1,4 @@
-org.jfree.data.KeyedObjectsTest.testGetKey true
+org.jfree.data.KeyedObjectsTest.testGetKey false
 org/jfree/chart/util/ParamChecks:nullNotPermitted:(Ljava/lang/Object;Ljava/lang/String;)V
 org/jfree/data/KeyedObjects:<init>:()V
 org/jfree/data/KeyedObjects:getKey:(I)Ljava/lang/Comparable;

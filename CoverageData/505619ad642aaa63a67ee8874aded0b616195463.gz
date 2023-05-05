@@ -1,4 +1,4 @@
-org.jfree.chart.urls.CustomCategoryURLGeneratorTest.testAddURLSeries true
+org.jfree.chart.urls.CustomCategoryURLGeneratorTest.testAddURLSeries false
 org/jfree/chart/urls/CustomCategoryURLGenerator:<init>:()V
 org/jfree/chart/urls/CustomCategoryURLGenerator:getListCount:()I
 org/jfree/chart/urls/CustomCategoryURLGenerator:getURLCount:(I)I

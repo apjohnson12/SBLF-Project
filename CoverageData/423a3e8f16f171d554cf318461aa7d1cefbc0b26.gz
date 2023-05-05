@@ -1,4 +1,4 @@
-org.jfree.chart.block.GridArrangementTest.testNN true
+org.jfree.chart.block.GridArrangementTest.testNN false
 org/jfree/chart/block/AbstractBlock:<init>:()V
 org/jfree/chart/block/AbstractBlock:getWidth:()D
 org/jfree/chart/block/AbstractBlock:setWidth:(D)V

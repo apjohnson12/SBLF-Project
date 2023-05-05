@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.AbstractRendererTest.testSetNegativeItemLabelPosition true
+org.jfree.chart.renderer.AbstractRendererTest.testSetNegativeItemLabelPosition false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:getNegativeItemLabelPosition:(II)Lorg/jfree/chart/labels/ItemLabelPosition;

@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.testCloning2 true
+org.jfree.chart.renderer.category.AbstractCategoryItemRendererTest.testCloning2 false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:setSeriesItemLabelGenerator:(ILorg/jfree/chart/labels/CategoryItemLabelGenerator;)V
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:setBaseItemLabelGenerator:(Lorg/jfree/chart/labels/CategoryItemLabelGenerator;)V

@@ -1,4 +1,4 @@
-org.jfree.data.DefaultKeyedValues2DTest.testCloning true
+org.jfree.data.DefaultKeyedValues2DTest.testCloning false
 org/jfree/chart/util/ParamChecks:nullNotPermitted:(Ljava/lang/Object;Ljava/lang/String;)V
 org/jfree/data/DefaultKeyedValues2D:<init>:()V
 org/jfree/data/DefaultKeyedValues2D:<init>:(Z)V

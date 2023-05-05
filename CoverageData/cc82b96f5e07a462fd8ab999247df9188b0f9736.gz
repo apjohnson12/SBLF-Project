@@ -1,4 +1,4 @@
-org.jfree.chart.axis.SymbolAxisTest.testCloning true
+org.jfree.chart.axis.SymbolAxisTest.testCloning false
 org/jfree/chart/axis/ValueAxis:<init>:(Ljava/lang/String;Lorg/jfree/chart/axis/TickUnitSource;)V
 org/jfree/chart/axis/ValueAxis:isAutoRange:()Z
 org/jfree/chart/axis/ValueAxis:setAutoTickUnitSelection:(ZZ)V

@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.IntervalBarRendererTest.testEquals true
+org.jfree.chart.renderer.category.IntervalBarRendererTest.testEquals false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V

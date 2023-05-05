@@ -1,4 +1,4 @@
-org.jfree.data.xy.DefaultOHLCDatasetTest.testCloning true
+org.jfree.data.xy.DefaultOHLCDatasetTest.testCloning false
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:clone:()Ljava/lang/Object;

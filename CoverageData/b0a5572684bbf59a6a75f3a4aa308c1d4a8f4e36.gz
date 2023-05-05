@@ -1,4 +1,4 @@
-org.jfree.chart.plot.PiePlot3DTest.testEquals true
+org.jfree.chart.plot.PiePlot3DTest.testEquals false
 org/jfree/chart/plot/Plot:<init>:()V
 org/jfree/chart/plot/Plot:notifyListeners:(Lorg/jfree/chart/event/PlotChangeEvent;)V
 org/jfree/chart/plot/Plot:fireChangeEvent:()V

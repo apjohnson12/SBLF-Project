@@ -1,4 +1,4 @@
-org.jfree.data.xy.XYIntervalSeriesTest.testAdd true
+org.jfree.data.xy.XYIntervalSeriesTest.testAdd false
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V
 org/jfree/data/general/Series:fireSeriesChanged:()V

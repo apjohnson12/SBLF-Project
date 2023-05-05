@@ -1,4 +1,4 @@
-org.jfree.chart.plot.PolarPlotTest.testTranslateToJava2D_NumberAxis true
+org.jfree.chart.plot.PolarPlotTest.testTranslateToJava2D_NumberAxis false
 org/jfree/chart/axis/ValueAxis:<init>:(Ljava/lang/String;Lorg/jfree/chart/axis/TickUnitSource;)V
 org/jfree/chart/axis/ValueAxis:isInverted:()Z
 org/jfree/chart/axis/ValueAxis:isAutoRange:()Z

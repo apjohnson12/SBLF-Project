@@ -1,4 +1,4 @@
-org.jfree.chart.annotations.XYTitleAnnotationTest.testSerialization true
+org.jfree.chart.annotations.XYTitleAnnotationTest.testSerialization false
 org/jfree/chart/title/Title:<init>:(Lorg/jfree/ui/RectangleEdge;Lorg/jfree/ui/HorizontalAlignment;Lorg/jfree/ui/VerticalAlignment;Lorg/jfree/ui/RectangleInsets;)V
 org/jfree/chart/title/Title:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/title/Title:writeObject:(Ljava/io/ObjectOutputStream;)V

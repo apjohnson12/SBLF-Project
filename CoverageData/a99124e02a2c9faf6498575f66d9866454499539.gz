@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.StackedBarRenderer3DTest.testCreateStackedValueList2c true
+org.jfree.chart.renderer.category.StackedBarRenderer3DTest.testCreateStackedValueList2c false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:fireDatasetChanged:()V

@@ -1,4 +1,4 @@
-org.jfree.data.xy.XYSeriesCollectionTest.testConstructor true
+org.jfree.data.xy.XYSeriesCollectionTest.testConstructor false
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:addChangeListener:(Lorg/jfree/data/general/DatasetChangeListener;)V

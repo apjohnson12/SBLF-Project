@@ -1,4 +1,4 @@
-org.jfree.chart.plot.CategoryPlotTest.testEquals_ObjectList true
+org.jfree.chart.plot.CategoryPlotTest.testEquals_ObjectList false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/chart/axis/Axis:<init>:(Ljava/lang/String;)V
 org/jfree/chart/axis/Axis:setPlot:(Lorg/jfree/chart/plot/Plot;)V

@@ -1,4 +1,4 @@
-org.jfree.data.DefaultKeyedValuesTest.testSortByKeyDescending true
+org.jfree.data.DefaultKeyedValuesTest.testSortByKeyDescending false
 org/jfree/chart/util/ParamChecks:nullNotPermitted:(Ljava/lang/Object;Ljava/lang/String;)V
 org/jfree/data/DefaultKeyedValues:<init>:()V
 org/jfree/data/DefaultKeyedValues:getValue:(I)Ljava/lang/Number;

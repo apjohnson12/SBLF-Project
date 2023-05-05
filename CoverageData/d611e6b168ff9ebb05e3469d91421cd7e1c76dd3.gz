@@ -1,4 +1,4 @@
-org.jfree.chart.labels.HighLowItemLabelGeneratorTest.testCloning true
+org.jfree.chart.labels.HighLowItemLabelGeneratorTest.testCloning false
 org/jfree/chart/labels/HighLowItemLabelGenerator:<init>:()V
 org/jfree/chart/labels/HighLowItemLabelGenerator:<init>:(Ljava/text/DateFormat;Ljava/text/NumberFormat;)V
 org/jfree/chart/labels/HighLowItemLabelGenerator:clone:()Ljava/lang/Object;

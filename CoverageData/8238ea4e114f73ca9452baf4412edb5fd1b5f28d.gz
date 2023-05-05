@@ -1,4 +1,4 @@
-org.jfree.chart.plot.XYPlotTest.testGetDomainAxisForDataset true
+org.jfree.chart.plot.XYPlotTest.testGetDomainAxisForDataset false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/data/general/AbstractSeriesDataset:<init>:()V
 org/jfree/data/general/AbstractDataset:<init>:()V

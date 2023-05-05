@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.xy.XYDifferenceRendererTest.testCloning true
+org.jfree.chart.renderer.xy.XYDifferenceRendererTest.testCloning false
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:equals:(Ljava/lang/Object;)Z
 org/jfree/chart/renderer/AbstractRenderer:clone:()Ljava/lang/Object;

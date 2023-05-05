@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.xy.DeviationRendererTest.testHashcode true
+org.jfree.chart.renderer.xy.DeviationRendererTest.testHashcode false
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:fireChangeEvent:()V
 org/jfree/chart/renderer/AbstractRenderer:notifyListeners:(Lorg/jfree/chart/event/RendererChangeEvent;)V

@@ -1,4 +1,4 @@
-org.jfree.data.xy.VectorSeriesCollectionTest.testCloning true
+org.jfree.data.xy.VectorSeriesCollectionTest.testCloning false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/general/Series:<init>:(Ljava/lang/Comparable;Ljava/lang/String;)V

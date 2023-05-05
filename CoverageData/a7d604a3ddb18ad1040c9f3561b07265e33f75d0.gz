@@ -1,4 +1,4 @@
-org.jfree.chart.title.CompositeTitleTest.testEquals true
+org.jfree.chart.title.CompositeTitleTest.testEquals false
 org/jfree/chart/title/Title:<init>:()V
 org/jfree/chart/title/Title:<init>:(Lorg/jfree/ui/RectangleEdge;Lorg/jfree/ui/HorizontalAlignment;Lorg/jfree/ui/VerticalAlignment;Lorg/jfree/ui/RectangleInsets;)V
 org/jfree/chart/title/Title:notifyListeners:(Lorg/jfree/chart/event/TitleChangeEvent;)V

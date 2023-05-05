@@ -1,4 +1,4 @@
-org.jfree.chart.needle.MiddlePinNeedleTest.testSerialization true
+org.jfree.chart.needle.MiddlePinNeedleTest.testSerialization false
 org/jfree/chart/needle/MeterNeedle:<clinit>:()V
 org/jfree/chart/needle/MeterNeedle:<init>:()V
 org/jfree/chart/needle/MeterNeedle:<init>:(Ljava/awt/Paint;Ljava/awt/Paint;Ljava/awt/Paint;)V

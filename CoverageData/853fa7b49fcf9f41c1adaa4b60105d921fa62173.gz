@@ -1,4 +1,4 @@
-org.jfree.chart.GanttChartTest.testSetSeriesURLGenerator true
+org.jfree.chart.GanttChartTest.testSetSeriesURLGenerator false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/chart/JFreeChart:<init>:(Ljava/lang/String;Ljava/awt/Font;Lorg/jfree/chart/plot/Plot;Z)V
 org/jfree/chart/JFreeChart:getTitle:()Lorg/jfree/chart/title/TextTitle;

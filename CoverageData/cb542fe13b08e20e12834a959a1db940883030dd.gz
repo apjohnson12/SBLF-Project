@@ -1,4 +1,4 @@
-org.jfree.chart.renderer.category.StackedBarRenderer3DTest.testPublicCloneable true
+org.jfree.chart.renderer.category.StackedBarRenderer3DTest.testPublicCloneable false
 org/jfree/chart/renderer/category/AbstractCategoryItemRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:<init>:()V
 org/jfree/chart/renderer/AbstractRenderer:setBasePositiveItemLabelPosition:(Lorg/jfree/chart/labels/ItemLabelPosition;)V

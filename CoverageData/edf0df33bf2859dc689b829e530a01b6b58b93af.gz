@@ -1,4 +1,4 @@
-org.jfree.data.time.TimeSeriesCollectionTest.testRemoveSeries true
+org.jfree.data.time.TimeSeriesCollectionTest.testRemoveSeries false
 org/jfree/data/general/DatasetChangeEvent:<init>:(Ljava/lang/Object;Lorg/jfree/data/general/Dataset;)V
 org/jfree/data/time/TimeSeries:<init>:(Ljava/lang/Comparable;)V
 org/jfree/data/time/TimeSeries:<init>:(Ljava/lang/Comparable;Ljava/lang/String;Ljava/lang/String;)V
