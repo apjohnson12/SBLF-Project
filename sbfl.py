@@ -1,8 +1,9 @@
 import os
 import math
+from openpyxl import Workbook
 
 directory_path = os.path.join(os.path.dirname(__file__), 'CoverageData')  # directory path relative to script location
-output_file_path = os.path.join(os.path.dirname(__file__), 'data1.txt')  # output file path relative to script location
+output_file_path = os.path.join(os.path.dirname(__file__), 'data.xlsx')  # output file path relative to script location
 total_lines = 0
 total_files = 0
 lines_dict = {}
@@ -38,19 +39,23 @@ for filename in os.listdir(directory_path):
         total_files += 1
         skip_first_line = True  # reset flag for next file
 
-# second pass to calculate percentages and write results to output file
-with open(output_file_path, 'w') as output_file:
-    output_file.write(f'Total lines: {total_lines}\n')
-    output_file.write(f'Total files: {total_files}\n')
-    output_file.write(f'Unique lines: {len(lines_dict)}\n')
-    output_file.write(f'Total Pass: {total_pass}, Total Fail: {total_fail}\n')
-    output_file.write('---\n')
-    for line, counts in lines_dict.items():
-        true_count = counts['true']
-        false_count = counts['false']
-        total_count = counts['total']
-        tarantula = tarantula = (false_count / total_fail) / ((false_count / total_fail) + (true_count / total_pass))
-        jaccard = false_count / (total_fail + true_count)
-        sbi = false_count / (false_count + true_count)
-        ochiai = false_count / math.sqrt(total_fail * (true_count + false_count))
-        output_file.write(f"{line} ({total_count} times, Tarantula: {tarantula:.6f}, Jaccard: {jaccard:.6f}, SBI: {sbi:.6f}, Ochiai: {ochiai:.6f}, Pass: {true_count}, Fail: {false_count})\n")
+# create Excel workbook and sheet
+wb = Workbook()
+ws = wb.active
+
+# add headers to Excel sheet
+ws.append(['Line', 'Total', 'Tarantula', 'Jaccard', 'SBI', 'Ochiai', 'Pass', 'Fail'])
+
+# loop through lines_dict and write results to Excel sheet
+for line, counts in lines_dict.items():
+    true_count = counts['true']
+    false_count = counts['false']
+    total_count = counts['total']
+    tarantula = tarantula = (false_count / total_fail) / ((false_count / total_fail) + (true_count / total_pass))
+    jaccard = false_count / (total_fail + true_count)
+    sbi = false_count / (false_count + true_count)
+    ochiai = false_count / math.sqrt(total_fail * (true_count + false_count))
+    ws.append([line, total_count, tarantula, jaccard, sbi, ochiai, true_count, false_count])
+
+# save the Excel workbook
+wb.save(output_file_path)
