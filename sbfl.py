@@ -39,6 +39,10 @@ for filename in os.listdir(directory_path):
         total_files += 1
         skip_first_line = True  # reset flag for next file
 
+# create list of tuples from lines_dict and sort it based on total count in descending order
+line_counts = [(line, counts['total']) for line, counts in lines_dict.items()]
+line_counts_sorted = sorted(line_counts, key=lambda x: x[1], reverse=True)
+
 # create Excel workbook and sheet
 wb = Workbook()
 ws = wb.active
@@ -46,8 +50,10 @@ ws = wb.active
 # add headers to Excel sheet
 ws.append(['Line', 'Total', 'Tarantula', 'Jaccard', 'SBI', 'Ochiai', 'Pass', 'Fail'])
 
-# loop through lines_dict and write results to Excel sheet
-for line, counts in lines_dict.items():
+# loop through sorted line_counts and write results to Excel sheet
+for line_count in line_counts_sorted:
+    line = line_count[0]
+    counts = lines_dict[line]
     true_count = counts['true']
     false_count = counts['false']
     total_count = counts['total']
